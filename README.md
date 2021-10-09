@@ -4,7 +4,7 @@
 
 <p align="center">🌱 I’m currently learning C, Unix, AppsScript, JavaScript and software engineer</p>
 
-<p align="center">📫 How to reach me <strong>contato.diegoazevedo@gmail.com</strong></p>
+<p align="center">📫 How to reach me <strong>moacir@gmail.com</strong></p>
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
