@@ -15,7 +15,6 @@
 <h2 align="center">💻 42 Projects 👽</h2>
 <p align="center"> 
 <img src="https://game.42sp.org.br/static/assets/achievements/libfte.png" alt="libft" width="auto" height="auto"/>
-<br>
 <img src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" alt="gnl" width="auto" height="auto"/>
 <br>
 <img src="https://badge42.herokuapp.com/api/stats/mamaro-d?privacyEmail=true&privacyName=true&darkmode=true&cursus=42cursus" alt="badge42" width="auto" height="auto"/>
