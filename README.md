@@ -2,9 +2,9 @@
 
 <p align="center">👽 Cadet at <a href="https://www.42sp.org.br/">42 São Paulo</a></p>
 
-<p align="center">🌱 I’m currently learning C, Unix, AppsScript, JavaScript and software engineer</p>
+<p align="center">🌱 I’m currently learning C, Unix, AppsScript, JavaScript and software engineering</p>
 
-<p align="center">📫 How to reach me <strong>moacir@gmail.com</strong></p>
+<p align="center">📫 How to reach me <strong>moacirjgt@gmail.com</strong></p>
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
@@ -14,8 +14,7 @@
 
 <h2 align="center">💻 42 Projects 👽</h2>
 <p align="center"> 
-<img src="https://game.42sp.org.br/static/assets/achievements/libfte.png" alt="c" width="auto" height="auto"/>
+<img src="https://game.42sp.org.br/static/assets/achievements/libfte.png" alt="libft" width="auto" height="auto"/>
 <br>
-<img src="https://badge42.herokuapp.com/api/stats/mamaro-d?privacyEmail=true&privacyName=true&darkmode=true&cursus=42cursus" alt="c" width="auto" height="auto"/>
-
+<img src="https://badge42.herokuapp.com/api/stats/mamaro-d?privacyEmail=true&privacyName=true&darkmode=true&cursus=42cursus" alt="gnl" width="auto" height="auto"/>
 </p>
