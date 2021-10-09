@@ -20,4 +20,4 @@
 <img src="https://badge42.herokuapp.com/api/stats/mamaro-d?privacyEmail=true&privacyName=true&darkmode=true&cursus=42cursus" alt="badge42" width="auto" height="auto"/>
 </p>
 
-[![mamaro-d](https://badge42.herokuapp.com/api/project/mamaro-d/libftm)](https://github.com/JaeSeoKim/badge42)
+[![mamaro-d](https://badge42.herokuapp.com/api/project/mamaro-d/libftm)](https://github.com/koukunwlk/badge42)
