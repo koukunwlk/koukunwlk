@@ -16,6 +16,6 @@
 <p align="center"> 
 <img src="https://game.42sp.org.br/static/assets/achievements/libfte.png" alt="c" width="auto" height="auto"/>
 <br>
-<img src="https://badge42.herokuapp.com/api/stats/diazeved?privacyEmail=true&privacyName=true&darkmode=true&cursus=42cursus" alt="c" width="auto" height="auto"/>
+<img src="https://badge42.herokuapp.com/api/stats/mamaro-d?privacyEmail=true&privacyName=true&darkmode=true&cursus=42cursus" alt="c" width="auto" height="auto"/>
 
 </p>
