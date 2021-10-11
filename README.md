@@ -14,8 +14,7 @@
 </p>
 
 <h2 align="center">💻 42 Projects 👽</h2>
-<div class="container" style="display: flex; justify-content: center">
-  
+<div align="center">
   <div class="card">
    <img src="https://game.42sp.org.br/static/assets/achievements/libftm.png" alt="libft" width="auto" height="auto"/>
    <br>
