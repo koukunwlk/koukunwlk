@@ -33,7 +33,7 @@
  <div class="card">
    <img src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" alt="gnl" width="auto" height="auto"/>
    <br>
-   <img src="https://badge42.herokuapp.com/api/project/mamaro-d/b2br"/>
+   <img src="https://badge42.herokuapp.com/api/project/mamaro-d/get_next_line"/>
  </div>
   <img src="https://badge42.herokuapp.com/api/stats/mamaro-d?privacyEmail=true&privacyName=true&darkmode=true&cursus=42cursus" alt="badge42" width="auto" height="auto" align="center"/>
 </div>
