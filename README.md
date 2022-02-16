@@ -4,7 +4,7 @@
 
 <p align="center">🌱 I’m currently learning C, Unix, AppsScript, JavaScript and software engineering</p>
 
-<p align="center">📫 How to reach me <a>https://www.linkedin.com/in/moaciramaro/</a></p>
+<p align="center">📫 How to reach me <a href="https://www.linkedin.com/in/moaciramaro/">LinkedIn</a></p>
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
