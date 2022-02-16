@@ -4,7 +4,7 @@
 
 <p align="center">🌱 I’m currently learning C, Unix, AppsScript, JavaScript and software engineering</p>
 
-<p align="center">📫 How to reach me <strong>moacirjgt@gmail.com</strong></p>
+<p align="center">📫 How to reach me <a><strong>https://www.linkedin.com/in/moaciramaro/</strong></a></p>
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
