@@ -17,23 +17,15 @@
 <div align="center">
   <div class="card">
    <img src="https://game.42sp.org.br/static/assets/achievements/libftm.png" alt="libft" width="auto" height="auto"/>
-   <br>
-   <img src="https://badge42.herokuapp.com/api/project/mamaro-d/Libft"/>
   </div>
   <div class="card">
    <img src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" alt="gnl" width="auto" height="auto"/>
-   <br>
-   <img src="https://badge42.herokuapp.com/api/project/mamaro-d/get_next_line"/>
   </div>
   <div class="card">
    <img src="https://game.42sp.org.br/static/assets/achievements/ft_printfe.png" alt="gnl" width="auto" height="auto"/>
-   <br>
-   <img src="https://badge42.herokuapp.com/api/project/mamaro-d/ft_printf"/>
   </div>
  <div class="card">
    <img src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" alt="gnl" width="auto" height="auto"/>
-   <br>
-   <img src="https://badge42.herokuapp.com/api/project/mamaro-d/get_next_line"/>
  </div>
   <img src="https://badge42.herokuapp.com/api/stats/mamaro-d?privacyEmail=true&privacyName=true&darkmode=true&cursus=42cursus" alt="badge42" width="auto" height="auto" align="center"/>
 </div>
