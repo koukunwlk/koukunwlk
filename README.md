@@ -19,6 +19,8 @@
    <img src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" alt="gnl" width="auto" height="auto"/>
    <img src="https://game.42sp.org.br/static/assets/achievements/ft_printfe.png" alt="printf" width="auto" height="auto"/>
    <img src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" alt="born" width="auto" height="auto"/>
-   <img src="https://game.42sp.org.br/static/assets/achievements/solong.png" alt="gnl" width="auto" height="auto"/>
+   <img src="https://game.42sp.org.br/static/assets/achievements/so_longe.png" alt="so_long" width="auto" height="auto"/>
+   <img src="https://game.42sp.org.br/static/assets/achievements/pipexe.png" alt="pipex" width="auto" height="auto"/>
+   <img src="https://game.42sp.org.br/static/assets/achievements/push_swape.png" alt="push_swap" width="auto" height="auto"/>
   <img src="https://badge42.herokuapp.com/api/stats/mamaro-d?privacyEmail=true&privacyName=true&darkmode=true&cursus=42cursus" alt="badge42" width="auto" height="auto" align="center"/>
 </div>
