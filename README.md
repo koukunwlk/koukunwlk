@@ -22,5 +22,6 @@
    <img src="https://game.42sp.org.br/static/assets/achievements/so_longe.png" alt="so_long" width="auto" height="auto"/>
    <img src="https://game.42sp.org.br/static/assets/achievements/pipexe.png" alt="pipex" width="auto" height="auto"/>
    <img src="https://game.42sp.org.br/static/assets/achievements/push_swape.png" alt="push_swap" width="auto" height="auto"/>
+   <br/>
   <img src="https://badge42.herokuapp.com/api/stats/mamaro-d?privacyEmail=true&privacyName=true&darkmode=true&cursus=42cursus" alt="badge42" width="auto" height="auto" align="center"/>
 </div>
