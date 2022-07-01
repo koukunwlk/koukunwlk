@@ -29,5 +29,5 @@
    <img src="https://game.42sp.org.br/static/assets/achievements/pipexe.png" alt="pipex" width="auto" height="auto"/>
    <img src="https://game.42sp.org.br/static/assets/achievements/push_swape.png" alt="push_swap" width="auto" height="auto"/>
    <br/>
-  <img src="https://badge42.herokuapp.com/api/stats/mamaro-d?privacyEmail=true&privacyName=true&darkmode=true&cursus=42cursus" alt="badge42" width="auto" height="auto" align="center"/>
+[![mamaro-d's 42 stats](https://badge42.vercel.app/api/v2/cl51r1l7c001109l4if308116/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
 </div>
