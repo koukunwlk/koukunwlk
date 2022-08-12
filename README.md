@@ -28,5 +28,7 @@
    <img src="https://game.42sp.org.br/static/assets/achievements/pipexe.png" alt="pipex" width="auto" height="auto"/>
    <img src="https://game.42sp.org.br/static/assets/achievements/push_swape.png" alt="push_swap" width="auto" height="auto"/>
    <img src="https://game.42sp.org.br/static/assets/achievements/minishellm.png" width="auto" height="auto">
+   <img src="https://game.42sp.org.br/static/assets/achievements/philosopherse.png" width="auto" height="auto">
+   <img src="https://game.42sp.org.br/static/assets/achievements/netpracticee.png" width="auto" height="auto">
    <br/>
 </div>
