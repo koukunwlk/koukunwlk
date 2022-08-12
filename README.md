@@ -16,7 +16,6 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
- <img src="https://game.42sp.org.br/static/assets/achievements/minishellm.png" width="40" height="40">
 </p>
 
 <h2 align="center">💻 42 Projects 👽</h2>
@@ -28,5 +27,6 @@
    <img src="https://game.42sp.org.br/static/assets/achievements/so_longe.png" alt="so_long" width="auto" height="auto"/>
    <img src="https://game.42sp.org.br/static/assets/achievements/pipexe.png" alt="pipex" width="auto" height="auto"/>
    <img src="https://game.42sp.org.br/static/assets/achievements/push_swape.png" alt="push_swap" width="auto" height="auto"/>
+   <img src="https://game.42sp.org.br/static/assets/achievements/minishellm.png" width="auto" height="auto">
    <br/>
 </div>
