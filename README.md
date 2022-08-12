@@ -16,7 +16,7 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
- 
+ <img src="https://game.42sp.org.br/static/assets/achievements/minishellm.png" width="40" height="40">
 </p>
 
 <h2 align="center">💻 42 Projects 👽</h2>
@@ -29,5 +29,4 @@
    <img src="https://game.42sp.org.br/static/assets/achievements/pipexe.png" alt="pipex" width="auto" height="auto"/>
    <img src="https://game.42sp.org.br/static/assets/achievements/push_swape.png" alt="push_swap" width="auto" height="auto"/>
    <br/>
-[![mamaro-d's 42 stats](https://badge42.vercel.app/api/v2/cl51r1l7c001109l4if308116/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
 </div>
