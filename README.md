@@ -30,5 +30,7 @@
    <img src="https://game.42sp.org.br/static/assets/achievements/minishellm.png" width="auto" height="auto">
    <img src="https://game.42sp.org.br/static/assets/achievements/philosopherse.png" width="auto" height="auto">
    <img src="https://game.42sp.org.br/static/assets/achievements/netpracticee.png" width="auto" height="auto">
+   <img src="https://game.42sp.org.br/static/assets/achievements/cub3de.png" width="auto" height="auto">
+   <img src="https://game.42sp.org.br/static/assets/achievements/cppe.png" width="auto" height="auto">
    <br/>
 </div>
